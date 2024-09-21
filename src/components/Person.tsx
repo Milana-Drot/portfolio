@@ -3,9 +3,9 @@ import PersonData from "../data/PersonData";
 const Person = () => {
   return (
     <div className="">
-      <p className="">My portfolio</p>
+      <p className="text-center text-white mb-2">My portfolio</p>
 
-      <div className="">{PersonData.name}</div>
+      <div className="text-center text-white mb-2">{PersonData.name}</div>
       <div className="">{PersonData.story}</div>
       <img
         className=" flex items-center justify-center w-64 sm:w-80 md:w-96 lg:w-[28rem] xl:w-[32rem] max-w-full max-h-full object-contain"
