@@ -1,7 +1,7 @@
 import im from "../assets/mi.jpg";
 
 const PersonData = {
-  name: "milana drot",
+  name: "Milana Drot",
   image: im,
   story: `Hi. Im  a fourth-year Computer Science student at the Open University
  Ive always had a natural affinity for planning and organization
